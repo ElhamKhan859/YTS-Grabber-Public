@@ -1,4 +1,4 @@
-<h1> YTS Grabber User Documentation </h1>
+<h1> YTS Grabber</h1>
 
 <h2> Introduction </h2>
 
