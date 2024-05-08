@@ -51,6 +51,7 @@ Welcome to YTS Grabber! This application allows you to easily fetch and bulk dow
 <h2>About</h2>
 <p>Developed by Mohammad Naim Elham.</p>
 <p>Version: 1.1 (March 2024).</p>
+<p>You may contact developer to help you build your own app</p>
 
 
 <p>Watch the YouTube tutorial <a href="https://youtu.be/TsZ38iuygDk">here</a>.</p>
