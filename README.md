@@ -55,7 +55,7 @@ Welcome to YTS Grabber! This application allows you to easily fetch and bulk dow
 
 
 <p>Watch the YouTube tutorial <a href="https://youtu.be/TsZ38iuygDk">here</a>.</p>
-<p>Download trial version <a href="https://drive.google.com/file/d/1kw_WpyMiYyuoGceFwsdDOAn02hMI43h6/view?usp=drive_link">here</a>.</p>
+<p>Trial version included in this reposository </p>
 
 <p>Purchase the product <a href="https://naimelham.gumroad.com/l/ytsgrabber">here</a>.</p>
 
