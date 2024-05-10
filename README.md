@@ -44,13 +44,14 @@ Welcome to YTS Grabber! This application allows you to easily fetch and bulk dow
 <h2>Additional Information</h2>
 <ul>
   <li><strong>Internet Connection:</strong> Ensure you have a stable internet connection for fetching movie data.</li>
+  <li><strong>Disk Space:</strong>Make sure you have sufficient storage space in the selected download directory.</li>
   <li><strong>Interference:</strong> Avoid interfering with the application while a task is in progress to prevent unexpected behavior.</li>
   <li><strong>Feedback and Support:</strong> For any inquiries, feedback, or bug reports, feel free to contact the developer at <a href="mailto:solutionsstudioinbox@gmail.com">solutionsstudioinbox@gmail.com</a>.</li>
 </ul>
 
 <h2>About</h2>
 <p>Developed by Mohammad Naim Elham.</p>
-<p>Version: 1.1 (March 2024).</p>
+<p>Version: 2.0 (May 2024).</p>
 <p>You may contact developer to help you build your own app</p>
 
 
