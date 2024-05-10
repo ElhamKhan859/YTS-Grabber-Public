@@ -3,7 +3,7 @@
 <h2> Introduction </h2>
 
 Welcome to YTS Grabber! This application allows you to easily fetch and bulk download movies from the YTS.mx website. Whether you're looking for the latest releases or timeless classics, YTS Grabber simplifies the process of finding and obtaining movies according to your preferences.
-<p>Purchase the product <a href="https://naimelham.gumroad.com/l/ytsgrabber">here</a>.</p>
+<p><strong>Purchase</strong> the product <a href="https://naimelham.gumroad.com/l/ytsgrabber">here</a>.</p>
 
 
 ![Alt Text](YTSGrabber.gif)
